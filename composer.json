@@ -1,0 +1,32 @@
+{
+    "name": "ellipse/domain",
+    "type": "library",
+    "description": "Common classes for domain part of the ADR pattern",
+    "keywords": [
+        "domain"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/ellipsephp/domain",
+    "support": {
+        "issues": "https://github.com/ellipsephp/domain/issues",
+        "source": "https://github.com/ellipsephp/domain"
+    },
+    "authors": [
+        {
+            "name": "Pierre Mallinjoud",
+            "email": "pierre.mallinjoud@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "require-dev": {
+        "kahlan/kahlan": "^4.0",
+        "eloquent/phony-kahlan": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ellipse\\ADR\\": "src"
+        }
+    }
+}
