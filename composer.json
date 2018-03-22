@@ -1,15 +1,15 @@
 {
-    "name": "ellipse/domain",
+    "name": "ellipse/adr",
     "type": "library",
-    "description": "Common classes for domain part of the ADR pattern",
+    "description": "Common classes for ADR pattern",
     "keywords": [
-        "domain"
+        "adr"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/ellipsephp/domain",
+    "homepage": "https://github.com/ellipsephp/adr",
     "support": {
-        "issues": "https://github.com/ellipsephp/domain/issues",
-        "source": "https://github.com/ellipsephp/domain"
+        "issues": "https://github.com/ellipsephp/adr/issues",
+        "source": "https://github.com/ellipsephp/adr"
     },
     "authors": [
         {
